@@ -12,13 +12,4 @@
 
 
 
-    <h1>Eu amo os filmes do Studio Ghibli!</h1>
-
-    <!-- Ícone do Totoro -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Totoro.svg" alt="Totoro" class="icon">
-
-    <!-- Mensagem -->
-    <p class="message">Totoro é um dos personagens mais icônicos do Studio Ghibli. <br> Os filmes desse estúdio são mágicos e inesquecíveis!</p>
-
-</body>
-</html>
+   
